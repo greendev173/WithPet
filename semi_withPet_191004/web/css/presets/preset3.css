@@ -1,0 +1,390 @@
+/* Global styles
+================================================== */
+
+a{
+	color: burlywood;
+}
+
+a.read-more:hover{
+	color: #327cbc;
+}
+
+
+/* Typography
+================================================== */
+
+.btn.btn-primary{
+	border: 2px solid tomato;
+}
+
+.btn.btn-primary:hover{
+	background: tomato;
+}
+
+.btn.btn-primary.solid{
+	background: tomato;
+}
+
+ul.circle li:before{
+	color: burlywood;
+}
+
+ul.check-list li i{
+	color: burlywood;
+}
+
+blockquote {
+	border-left: 5px solid tomato;
+}
+
+
+/* Common styles
+================================================== */
+
+.heading:hover .title-icon{
+	color: burlywood;
+}
+
+h2.entry-title a:hover{
+	color: burlywood;
+}
+
+/* Icon pentagon */
+
+.icon-pentagon{
+	background: none repeat scroll 0 0 tomato;
+}
+
+.icon-pentagon:before{
+	border-bottom: 10px solid tomato;
+}
+
+.icon-pentagon:after {
+	border-top: 10px solid tomato;
+}
+
+.service-icon:before {
+	border-bottom: 30px solid tomato;
+}
+
+.service-icon:after {
+	border-top: 30px solid tomato;
+}
+
+/* Carousel controller */
+
+.ts-carousel-controller .left:hover,
+.ts-carousel-controller .right:hover,
+.owl-controls .owl-prev:hover, 
+.owl-controls .owl-next:hover{
+	background: tomato;
+}
+
+/* Input form */
+
+.form-control:focus{
+	border: 1px solid tomato !important;
+}
+
+/* Flex Slider */
+
+.portfolio-slider .flex-direction-nav a:hover,
+.ts-flex-slider .flex-direction-nav a:hover {
+	background: tomato;
+}
+
+/* Pagination */
+
+.pagination>.active>a, .pagination>.active>a:hover,
+.pagination>li>a:hover{
+	background: tomato;
+}
+
+/* Header area
+================================================== */
+
+/*-- Header --*/
+.header{
+	border-top: 5px solid tomato;
+}
+
+.header-solid ul.navbar-nav > li:hover > a, .header-solid ul.navbar-nav > li.active > a {
+  color: burlywood;
+}
+
+/*-- Logo --*/
+
+.navbar-brand.navbar-bg{
+	background: tomato;
+}
+
+/*-- Main navigation --*/
+
+ul.navbar-nav > li:hover > a, 
+ul.navbar-nav > li.active > a{
+	color: burlywood;
+}
+
+.navbar-toggle{
+	background: tomato;
+}
+
+.dropdown-menu > ul > li.active > a{
+	color: burlywood;
+}
+
+.dropdown-menu > ul > li>a:hover, 
+.dropdown-menu > ul > li>a:focus{
+	color: burlywood;
+}
+
+
+/* Header area - 2
+================================================== */
+
+/*-- Header bgnone fixed --*/
+
+.header-bgnone{
+	background: tomato;
+}
+
+
+/* Slideshow
+================================================== */
+
+/*-- Main slide --*/
+
+#main-slide .carousel-indicators li.active,
+#main-slide .carousel-indicators li:hover {
+    background-color: burlywood;
+}
+
+#main-slide .carousel-control i:hover{
+	background: tomato;
+}
+
+/* Image Block
+================================================== */
+
+.image-block-content .feature-icon{
+	background: tomato;
+}
+
+
+/* Portfolio
+================================================== */
+
+.isotope-nav ul li a{
+	border: 1px solid tomato;
+}
+
+.isotope-nav ul a.active, 
+.isotope-nav ul a:hover{
+	background: tomato;
+}
+
+.isotope-nav ul a.active:after, 
+.isotope-nav ul a:hover:after{
+	border-color: burlywood rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
+}
+
+
+/* Feature box
+================================================== */
+.feature-icon{
+	color: burlywood;
+}
+
+.feature-center-icon{
+	color: burlywood;
+}
+
+/* About us
+================================================== */
+
+/* Featured Tab */
+
+.featured-tab .nav-tabs>li.active>a{
+	background: tomato;
+}
+
+.featured-tab .nav-tabs>li.active>a:after{
+	border-left-color: burlywood;
+}
+
+.featured-tab .nav-tabs>li>a:hover{
+	background: tomato;
+	color: #fff;
+}
+.featured-tab .nav-tabs>li>a:hover:after{
+	border-left-color: burlywood;
+}
+
+/* Pricing table
+================================================== */
+
+.plan.featured .plan-price{
+	background: tomato;
+}
+.plan.featured .plan-price:after{
+	border-top-color: burlywood;
+}
+
+/* Testimonial
+================================================== */
+
+.testimonial-slide .testimonial-text:before{
+	color: burlywood;
+}
+
+.testimonial-slide .testimonial-text:after{
+	color: burlywood;
+}
+
+.testimonial-slide.owl-theme .owl-controls .owl-page.active span{
+	background: tomato;
+}
+
+/* Recent Post
+================================================== */
+
+.post-img-overlay a:hover{
+	background: tomato;
+}
+
+
+/* Footer
+================================================== */
+
+.copyright-info a:hover{
+	color: burlywood;
+}
+
+.footer2 .copyright-info a{
+	color: burlywood;
+}
+
+#back-to-top .btn.btn-primary:hover{
+	background: tomato;
+}
+
+.footer-about-us h4{
+	color: burlywood;
+}
+
+.footer-widget .latest-post-content h4 a:hover{
+	color: burlywood;
+}
+
+.subscribe button{
+	background: tomato;
+}
+
+/* Blog Item page
+================================================== */
+
+.post-meta a:hover{
+	color: burlywood;
+}
+
+.author-url span a:hover{
+	color: burlywood;
+}
+
+.comments-counter a:hover{
+	color: burlywood;
+}
+
+.comments-list .comment-reply:hover{
+	color: burlywood;
+}
+
+/*-- Blog sidebar --*/
+
+
+.widget-tab h4.entry-title a:hover{
+	color: burlywood;
+}
+
+.widget-tags ul > li a:hover{
+	background: tomato;
+}
+
+/* Landing page
+================================================== */
+
+.landing-header.header-bgnone ul.navbar-nav > li:hover > a, 
+.landing-header.header-bgnone ul.navbar-nav > li.active > a {
+	color: burlywood;
+}
+
+.features-content .features-icon{
+	color: burlywood;
+}
+
+.landing_facts{
+	background: tomato;
+}
+
+.landing-tab .nav-tabs>li.active{
+	border-right: 5px solid tomato;
+}
+
+.landing-tab .nav-tabs>li.active>a i{
+	color: burlywood;
+}
+
+.landing-tab .nav-tabs>li>a:hover{
+	color: burlywood !important;
+}
+
+.landing-tab .tab-pane i.big{
+	color: burlywood;
+}
+
+.app-gallery.owl-theme .owl-controls .owl-page.active span{
+	background: tomato;
+}
+
+.landing_page_clients{
+	background: tomato;
+}
+
+/* Misc */
+
+.title-border{
+	border-bottom: 2px solid tomato;
+}
+
+.post-title a:hover{
+	color: burlywood;
+}
+
+.portfolio-static-desc a:hover{
+	color: burlywood;
+}
+
+.client-carousel .item a:hover{
+	border: 1px solid tomato;
+}
+
+.footer ul li a:hover{
+	color: burlywood;
+}
+
+.call-to-action{
+	background: tomato;
+}
+
+.blog-date{
+	background: tomato;
+}
+
+.widget-categories ul.category-list  li a:hover{
+	color: burlywood;
+}
+
+.about-message ul li a:hover{
+	color: burlywood;
+}
+

@@ -1,0 +1,18 @@
+.slide{
+	
+}
+.slide ul{
+	width:
+	list-style:none;
+	font-size:0;
+}
+.slide ul li{
+	font-size:16px;
+	display:inline-block;
+}
+.slide button.prev{
+	
+}
+.slide button.next{
+	
+}
